@@ -1,3 +1,3 @@
 ### My Components
  
-(./img/components.png)
+![My Components](./img/components.png)
